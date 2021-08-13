@@ -1,3 +1,3 @@
 # TeslaNative
 
-A clone of Tesla WebPage made wit React native
+A clone of Tesla WebPage made with React native
